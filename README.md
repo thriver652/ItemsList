@@ -15,11 +15,6 @@ https://github.com/thriver652/ItemsList/assets/74093651/44ac3bbe-fdb3-4d88-9ba9-
 
 
 
-
-
-
-
-
 ## Installation
 
 Follow these steps to set up and run the project locally.
