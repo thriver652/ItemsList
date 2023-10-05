@@ -1,6 +1,6 @@
-# React Native ToDo App
+![screenshot](https://github.com/thriver652/ItemsList/assets/74093651/15013602-c0f2-456d-a48a-a68cfa9b9fab)# React Native Items List App
 
-A simple React Native app with a to-do list feature, including a search bar and a plus button to add items.
+A simple React Native app with an add Item List feature, including a search bar and a plus button to add items.
 
 ## Table of Contents
 
@@ -14,6 +14,9 @@ A simple React Native app with a to-do list feature, including a search bar and 
 ## Demo
 
 Include a GIF or screenshot of your app here to give users a quick preview.
+![Alt text]( ![screenshot](https://github.com/thriver652/ItemsList/assets/74093651/7714b4ef-d494-4c3f-84e0-8d634094b589)
+tional title")
+
 
 ## Installation
 
