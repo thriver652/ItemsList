@@ -12,7 +12,9 @@ A simple React Native app with an add Item List feature, including a search bar 
 ## Demo
 
 
-( [screenshot](https://github.com/thriver652/ItemsList/assets/74093651/7714b4ef-d494-4c3f-84e0-8d634094b589)")
+![Alt text]("")![screenshot](https://github.com/thriver652/ItemsList/assets/74093651/8d69106f-39c6-4f51-8440-4e88ad951f68)
+
+
 
 
 ## Installation
