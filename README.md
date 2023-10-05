@@ -6,8 +6,6 @@ A simple React Native app with an add Item List feature, including a search bar 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
 
