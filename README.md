@@ -17,24 +17,25 @@ A simple React Native app with an add Item List feature, including a search bar 
 
 Follow these steps to set up and run the project locally.
 
-1. **Clone the repository:**
-
-    ```bash
-    git clone https://github.com/thriver652/ItemsList
-    cd ItemsList
-    ```
+1. **Open Your Terminal**
 
 2. **Install dependencies:**
 
     ```bash
-    npm install
+    npm install -global expo-cli
     # or
-    yarn install
+    yarn install -global expo-cli
+    # and
+    expo init ItemsList
+    # and
+    cd ItemsList
     ```
 
 3. **Run the app:**
 
     ```bash
+    npm start
+    # or
     npx react-native run-android
     # or
     npx react-native run-ios
@@ -52,9 +53,9 @@ Follow these steps to set up and run the project locally.
 ## Folder Structure
 
 ```plaintext
-|-- android/         # Android native code
-|-- ios/             # iOS native code
-|-- node_modules/    # Node.js modules and dependencies
+|-- .expo/         # Expo Installation
+|-- .vscode/             # VS code
+|-- assets/    # Node.js modules and dependencies
 |-- src/             # React Native source code
 |   |-- components/  # React components
 |   |   |-- Task.js  # Task component
